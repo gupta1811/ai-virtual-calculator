@@ -1,0 +1,9 @@
+Django
+opencv-python
+numpy
+Pillow
+google-generativeai
+cvzone
+python-dotenv
+mediapipe
+django
